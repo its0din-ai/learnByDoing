@@ -7,11 +7,15 @@
 </div>
 <h4>Will Be Learning ::</h4>
 <div>
-  <img src="https://img.shields.io/badge/GOLANG-%23276DC3.svg?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GOLANG-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/JAVA-%23276DC3.svg?style=for-the-badge&logo=java&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/JAVASCRIPT-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
 </div>
-
+<div>
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PYTHON-%3670A0.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RUST-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
+</div>
 
 <hr>
 <div align="center">
