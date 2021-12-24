@@ -32,6 +32,6 @@ func main() {
 Ada 4 Ifcontrols:
 If
 If - Else
-Else If
+Else - If
 Nested If (Kondisi Bersarang)
 */
